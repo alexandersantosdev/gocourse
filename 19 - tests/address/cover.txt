@@ -1,0 +1,7 @@
+mode: set
+github.com/alexandersantosdev/testsgo/address/address.go:7.41,12.32 3 1
+github.com/alexandersantosdev/testsgo/address/address.go:12.32,13.71 1 1
+github.com/alexandersantosdev/testsgo/address/address.go:13.71,15.9 2 1
+github.com/alexandersantosdev/testsgo/address/address.go:19.2,19.13 1 1
+github.com/alexandersantosdev/testsgo/address/address.go:19.13,21.3 1 1
+github.com/alexandersantosdev/testsgo/address/address.go:23.2,23.25 1 0
