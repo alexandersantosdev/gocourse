@@ -1,6 +1,6 @@
 # Go Course
 
-Welcome to the Go course! This repository contains the code and resources for learning the Go programming language.
+Welcome to the my Go course repository! This repository contains the code and resources of my learning in Go programming language.
 
 ## Table of Contents
 
